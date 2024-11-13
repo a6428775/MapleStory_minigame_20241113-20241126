@@ -10,7 +10,7 @@
 
 ### 檔案下載
 
-[下載連結](https://github.com/a6428775/MapleStory_minigame_20241009-20241015/releases/download/v1.0.0/MapleStory_minigame_20241009-20241015.zip)
+[下載連結](https://github.com/a6428775/MapleStory_minigame_20241113-20241126/releases/download/minigame_v1.0.0/MapleStory_minigame_20241113-20241126.zip)
 
 * 僅支援windows 10/11
 * 解壓縮後請先開啟遊戲,再直接執行exe檔並讓新楓之谷視窗置頂

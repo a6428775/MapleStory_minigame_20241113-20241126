@@ -19,6 +19,8 @@
 
 活動日期：11/13~11/26
 
+![。](https://github.com/a6428775/MapleStory_minigame_20241113-20241126/blob/main/README/1728322764542.png)
+
 玩法說明：
 
 
